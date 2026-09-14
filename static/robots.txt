@@ -1,0 +1,5 @@
+# allow crawling everything by default
+User-agent: *
+Disallow: /status/redirect
+
+Sitemap: https://www.ermbot.xyz/sitemap.xml
